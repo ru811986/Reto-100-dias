@@ -1,0 +1,17 @@
+E:\Documentos\Retos\C#\reto13\reto13\bin\Debug\net6.0-windows\reto13.exe
+E:\Documentos\Retos\C#\reto13\reto13\bin\Debug\net6.0-windows\reto13.deps.json
+E:\Documentos\Retos\C#\reto13\reto13\bin\Debug\net6.0-windows\reto13.runtimeconfig.json
+E:\Documentos\Retos\C#\reto13\reto13\bin\Debug\net6.0-windows\reto13.dll
+E:\Documentos\Retos\C#\reto13\reto13\bin\Debug\net6.0-windows\reto13.pdb
+E:\Documentos\Retos\C#\reto13\reto13\obj\Debug\net6.0-windows\reto13.csproj.AssemblyReference.cache
+E:\Documentos\Retos\C#\reto13\reto13\obj\Debug\net6.0-windows\reto13.Form1.resources
+E:\Documentos\Retos\C#\reto13\reto13\obj\Debug\net6.0-windows\reto13.csproj.GenerateResource.cache
+E:\Documentos\Retos\C#\reto13\reto13\obj\Debug\net6.0-windows\reto13.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\Retos\C#\reto13\reto13\obj\Debug\net6.0-windows\reto13.AssemblyInfoInputs.cache
+E:\Documentos\Retos\C#\reto13\reto13\obj\Debug\net6.0-windows\reto13.AssemblyInfo.cs
+E:\Documentos\Retos\C#\reto13\reto13\obj\Debug\net6.0-windows\reto13.csproj.CoreCompileInputs.cache
+E:\Documentos\Retos\C#\reto13\reto13\obj\Debug\net6.0-windows\reto13.dll
+E:\Documentos\Retos\C#\reto13\reto13\obj\Debug\net6.0-windows\refint\reto13.dll
+E:\Documentos\Retos\C#\reto13\reto13\obj\Debug\net6.0-windows\reto13.pdb
+E:\Documentos\Retos\C#\reto13\reto13\obj\Debug\net6.0-windows\reto13.genruntimeconfig.cache
+E:\Documentos\Retos\C#\reto13\reto13\obj\Debug\net6.0-windows\ref\reto13.dll
