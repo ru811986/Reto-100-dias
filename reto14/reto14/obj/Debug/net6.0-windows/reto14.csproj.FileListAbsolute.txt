@@ -1,0 +1,17 @@
+E:\Documentos\Retos\C#\Ejemplos diarios\reto14\reto14\bin\Debug\net6.0-windows\reto14.exe
+E:\Documentos\Retos\C#\Ejemplos diarios\reto14\reto14\bin\Debug\net6.0-windows\reto14.deps.json
+E:\Documentos\Retos\C#\Ejemplos diarios\reto14\reto14\bin\Debug\net6.0-windows\reto14.runtimeconfig.json
+E:\Documentos\Retos\C#\Ejemplos diarios\reto14\reto14\bin\Debug\net6.0-windows\reto14.dll
+E:\Documentos\Retos\C#\Ejemplos diarios\reto14\reto14\bin\Debug\net6.0-windows\reto14.pdb
+E:\Documentos\Retos\C#\Ejemplos diarios\reto14\reto14\obj\Debug\net6.0-windows\reto14.csproj.AssemblyReference.cache
+E:\Documentos\Retos\C#\Ejemplos diarios\reto14\reto14\obj\Debug\net6.0-windows\reto14.Form1.resources
+E:\Documentos\Retos\C#\Ejemplos diarios\reto14\reto14\obj\Debug\net6.0-windows\reto14.csproj.GenerateResource.cache
+E:\Documentos\Retos\C#\Ejemplos diarios\reto14\reto14\obj\Debug\net6.0-windows\reto14.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\Retos\C#\Ejemplos diarios\reto14\reto14\obj\Debug\net6.0-windows\reto14.AssemblyInfoInputs.cache
+E:\Documentos\Retos\C#\Ejemplos diarios\reto14\reto14\obj\Debug\net6.0-windows\reto14.AssemblyInfo.cs
+E:\Documentos\Retos\C#\Ejemplos diarios\reto14\reto14\obj\Debug\net6.0-windows\reto14.csproj.CoreCompileInputs.cache
+E:\Documentos\Retos\C#\Ejemplos diarios\reto14\reto14\obj\Debug\net6.0-windows\reto14.dll
+E:\Documentos\Retos\C#\Ejemplos diarios\reto14\reto14\obj\Debug\net6.0-windows\refint\reto14.dll
+E:\Documentos\Retos\C#\Ejemplos diarios\reto14\reto14\obj\Debug\net6.0-windows\reto14.pdb
+E:\Documentos\Retos\C#\Ejemplos diarios\reto14\reto14\obj\Debug\net6.0-windows\reto14.genruntimeconfig.cache
+E:\Documentos\Retos\C#\Ejemplos diarios\reto14\reto14\obj\Debug\net6.0-windows\ref\reto14.dll
