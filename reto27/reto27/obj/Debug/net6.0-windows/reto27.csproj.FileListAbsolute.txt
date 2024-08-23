@@ -1,0 +1,17 @@
+E:\Documentos\Proyectos de Visual Studio 2022\Proyectos con C#\reto27\reto27\bin\Debug\net6.0-windows\reto27.exe
+E:\Documentos\Proyectos de Visual Studio 2022\Proyectos con C#\reto27\reto27\bin\Debug\net6.0-windows\reto27.deps.json
+E:\Documentos\Proyectos de Visual Studio 2022\Proyectos con C#\reto27\reto27\bin\Debug\net6.0-windows\reto27.runtimeconfig.json
+E:\Documentos\Proyectos de Visual Studio 2022\Proyectos con C#\reto27\reto27\bin\Debug\net6.0-windows\reto27.dll
+E:\Documentos\Proyectos de Visual Studio 2022\Proyectos con C#\reto27\reto27\bin\Debug\net6.0-windows\reto27.pdb
+E:\Documentos\Proyectos de Visual Studio 2022\Proyectos con C#\reto27\reto27\obj\Debug\net6.0-windows\reto27.csproj.AssemblyReference.cache
+E:\Documentos\Proyectos de Visual Studio 2022\Proyectos con C#\reto27\reto27\obj\Debug\net6.0-windows\reto27.FrmTicketDePago.resources
+E:\Documentos\Proyectos de Visual Studio 2022\Proyectos con C#\reto27\reto27\obj\Debug\net6.0-windows\reto27.csproj.GenerateResource.cache
+E:\Documentos\Proyectos de Visual Studio 2022\Proyectos con C#\reto27\reto27\obj\Debug\net6.0-windows\reto27.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\Proyectos de Visual Studio 2022\Proyectos con C#\reto27\reto27\obj\Debug\net6.0-windows\reto27.AssemblyInfoInputs.cache
+E:\Documentos\Proyectos de Visual Studio 2022\Proyectos con C#\reto27\reto27\obj\Debug\net6.0-windows\reto27.AssemblyInfo.cs
+E:\Documentos\Proyectos de Visual Studio 2022\Proyectos con C#\reto27\reto27\obj\Debug\net6.0-windows\reto27.csproj.CoreCompileInputs.cache
+E:\Documentos\Proyectos de Visual Studio 2022\Proyectos con C#\reto27\reto27\obj\Debug\net6.0-windows\reto27.dll
+E:\Documentos\Proyectos de Visual Studio 2022\Proyectos con C#\reto27\reto27\obj\Debug\net6.0-windows\refint\reto27.dll
+E:\Documentos\Proyectos de Visual Studio 2022\Proyectos con C#\reto27\reto27\obj\Debug\net6.0-windows\reto27.pdb
+E:\Documentos\Proyectos de Visual Studio 2022\Proyectos con C#\reto27\reto27\obj\Debug\net6.0-windows\reto27.genruntimeconfig.cache
+E:\Documentos\Proyectos de Visual Studio 2022\Proyectos con C#\reto27\reto27\obj\Debug\net6.0-windows\ref\reto27.dll
